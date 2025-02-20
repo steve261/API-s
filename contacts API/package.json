@@ -12,8 +12,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devStart": "nodemon index",
-    "start":"node index"
+    "devStart": "nodemon server.js",
+    "start":"node index",
+    "dev": "node --watch --env-file=.env server.js"
   },
   "keywords": [],
   "author": "",

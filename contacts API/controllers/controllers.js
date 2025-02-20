@@ -20,6 +20,7 @@ let contacts=[
     "Contact": "0721349454",
   }
 ]
+
 export const getAllContacts=(req,res)=>{
     res.json(contacts)
 }
