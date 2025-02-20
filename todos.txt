@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, bread, eggs, and butter",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "Walk the dog",
+    "description": "Take Bruno for a 30-minute walk",
+    "isCompleted": true
+  },
+  {
+    "id": 3,
+    "title": "Read a book",
+    "description": "Finish reading 'Atomic Habits'",
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "title": "Work on project",
+    "description": "Complete the design phase of the mobile app",
+    "isCompleted": true
+  },
+  {
+    "id": 5,
+    "title": "Clean the house",
+    "description": "Sweep, mop, and dust the living room",
+    "isCompleted": false
+  },
+  {
+    "id": 6,
+    "title": "Exercise",
+    "description": "Do a 20-minute HIIT workout",
+    "isCompleted": true
+  },
+  {
+    "id": 7,
+    "title": "Fix the bike",
+    "description": "Repair the broken chain on the mountain bike",
+    "isCompleted": false
+  },
+  {
+    "id": 8,
+    "title": "Pay electricity bill",
+    "description": "Settle the monthly bill before the due date",
+    "isCompleted": false
+  },
+  {
+    "id": 9,
+    "title": "Call mom",
+    "description": "Check up on mom and discuss holiday plans",
+    "isCompleted": true
+  },
+  {
+    "id": 10,
+    "title": "Finish coding assignment",
+    "description": "Complete the coding challenge for school",
+    "isCompleted": false
+  },
+  {
+    "id": 11,
+    "title": "Watch a movie",
+    "description": "Watch 'Inception' with friends",
+    "isCompleted": true
+  },
+  {
+    "id": 12,
+    "title": "Schedule doctor's appointment",
+    "description": "Routine check-up scheduled for next week",
+    "isCompleted": false
+  },
+  {
+    "id": 13,
+    "title": "Update resume",
+    "description": "Add recent project details to the resume",
+    "isCompleted": false
+  },
+  {
+    "id": 14,
+    "title": "Plan vacation",
+    "description": "Research destinations and book flights",
+    "isCompleted": true
+  },
+  {
+    "id": 15,
+    "title": "Attend meeting",
+    "description": "Weekly project sync-up with the team",
+    "isCompleted": true
+  },
+  {
+    "id": 16,
+    "title": "Refactor code",
+    "description": "Clean up the legacy code and add comments",
+    "isCompleted": false
+  },
+  {
+    "id": 17,
+    "title": "Buy a new laptop",
+    "description": "Look for a good deal on a MacBook",
+    "isCompleted": true
+  },
+  {
+    "id": 18,
+    "title": "Paint the kitchen",
+    "description": "Repaint the kitchen walls with a fresh color",
+    "isCompleted": false
+  },
+  {
+    "id": 19,
+    "title": "Meditate",
+    "description": "Do a 10-minute meditation session",
+    "isCompleted": true
+  },
+  {
+    "id": 20,
+    "title": "Organize closet",
+    "description": "Declutter and organize the wardrobe",
+    "isCompleted": false
+  },
+  {
+    "id": 21,
+    "title": "Research new tech trends",
+    "description": "Read articles about upcoming tech trends in AI",
+    "isCompleted": true
+  },
+  {
+    "id": 22,
+    "title": "Water plants",
+    "description": "Water the indoor plants",
+    "isCompleted": false
+  },
+  {
+    "id": 23,
+    "title": "Prepare dinner",
+    "description": "Cook pasta for dinner",
+    "isCompleted": true
+  },
+  {
+    "id": 24,
+    "title": "Organize files",
+    "description": "Sort through digital files and delete old ones",
+    "isCompleted": false
+  },
+  {
+    "id": 25,
+    "title": "Visit grandparents",
+    "description": "Spend the weekend with grandparents",
+    "isCompleted": true
+  },
+  {
+    "id": 26,
+    "title": "Plan weekend trip",
+    "description": "Find nearby spots for a short weekend getaway",
+    "isCompleted": false
+  },
+  {
+    "id": 27,
+    "title": "Study for exams",
+    "description": "Prepare for upcoming final exams",
+    "isCompleted": false
+  },
+  {
+    "id": 28,
+    "title": "Reply to emails",
+    "description": "Respond to pending emails from last week",
+    "isCompleted": true
+  },
+  {
+    "id": 29,
+    "title": "Clean the garage",
+    "description": "Clear out old boxes and sweep the garage",
+    "isCompleted": false
+  },
+  {
+    "id": 30,
+    "title": "Go for a run",
+    "description": "Run 5 km in the neighborhood park",
+    "isCompleted": true
+  },
+  {
+    "id": 31,
+    "title": "Fix the leaky faucet",
+    "description": "Repair the kitchen faucet that's leaking",
+    "isCompleted": false
+  },
+  {
+    "id": 32,
+    "title": "Watch tutorial",
+    "description": "Watch a tutorial on mobile app development",
+    "isCompleted": true
+  },
+  {
+    "id": 33,
+    "title": "Write blog post",
+    "description": "Draft a blog post about software development",
+    "isCompleted": false
+  },
+  {
+    "id": 34,
+    "title": "Organize bookshelf",
+    "description": "Sort and arrange the books by genre",
+    "isCompleted": false
+  },
+  {
+    "id": 35,
+    "title": "Start learning Spanish",
+    "description": "Spend 15 minutes learning Spanish on Duolingo",
+    "isCompleted": true
+  },
+  {
+    "id": 36,
+    "title": "Backup files",
+    "description": "Backup all important documents to cloud storage",
+    "isCompleted": true
+  },
+  {
+    "id": 37,
+    "title": "Write code documentation",
+    "description": "Document all key functions in the codebase",
+    "isCompleted": false
+  },
+  {
+    "id": 38,
+    "title": "Attend webinar",
+    "description": "Join the online webinar on web development",
+    "isCompleted": true
+  },
+  {
+    "id": 39,
+    "title": "Submit assignment",
+    "description": "Upload the final assignment before the deadline",
+    "isCompleted": false
+  },
+  {
+    "id": 40,
+    "title": "Go grocery shopping",
+    "description": "Buy fruits, vegetables, and snacks",
+    "isCompleted": true
+  }
+]
+
